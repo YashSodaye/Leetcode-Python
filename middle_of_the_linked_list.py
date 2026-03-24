@@ -58,6 +58,10 @@ head_1 = create_linked_list([1,2,3,4,5])
 
 head_2 = create_linked_list([1,2,3,4,5,6])
 
+head_3 = (create_linked_list([1,2,3]))
+
 print(print_list(middleNode(head_1)))
 
 print(print_list(middleNode(head_2)))
+
+print(print_list(middleNode(head_3)))
