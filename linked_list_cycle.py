@@ -24,3 +24,35 @@ Input: head = [1], pos = -1
 Output: false
 Explanation: There is no cycle in the linked list.
 '''
+
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
+def create_linked_list(arr):
+    head = ListNode(arr[0])
+    current = head
+
+    for i in range(1, len(arr)):
+        current.next = ListNode(arr[i])
+        current = current.next
+
+    return head
+
+def hasCycle(head):
+    slow, fast = head, head
+
+    while fast is not None and fast.next is not None:
+        slow = slow.next
+        fast = fast.next.next
+
+        # If there is a cycle, the two pointers will meet
+        if slow == fast: 
+            return True
+    
+    return False 
+
+head_1 = create_linked_list([3,2,0,-4])
+
+print(hasCycle(head_1))
