@@ -40,6 +40,22 @@ def create_linked_list(arr):
 
     return head
 
+def create_cycle(head, pos):
+    if pos == -1:
+        return head
+
+    cycle_node = head
+    for _ in range(pos):
+        cycle_node = cycle_node.next
+
+    tail = head
+    while tail.next:
+        tail = tail.next
+
+    tail.next = cycle_node   # create cycle
+
+    return head
+
 def hasCycle(head):
     slow, fast = head, head
 
@@ -47,12 +63,22 @@ def hasCycle(head):
         slow = slow.next
         fast = fast.next.next
 
-        # If there is a cycle, the two pointers will meet
-        if slow == fast: 
+        if slow == fast:
             return True
     
-    return False 
+    return False
 
-head_1 = create_linked_list([3,2,0,-4])
+head = create_linked_list([3,2,0,-4])
+head = create_cycle(head, 1)
 
-print(hasCycle(head_1))
+print(hasCycle(head))   # True
+
+head1 = create_linked_list([1,2])
+head1 = create_cycle(head1, 0)
+
+print(hasCycle(head1))
+
+head2 = create_linked_list([1])
+head2= create_cycle(head2, -1)
+
+print(hasCycle(head2))
