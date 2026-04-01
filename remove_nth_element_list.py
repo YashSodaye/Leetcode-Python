@@ -93,3 +93,13 @@ if __name__ == "__main__":
 
     print("After removing 1st from end:")
     print_list(head2)
+
+    # Example 3
+    head3 = create_linked_list([1, 2, 3, 4, 5])
+    print("Before:")
+    print_list(head3)
+
+    head3 = removeNthFromEnd(head3, 3)
+
+    print("After removing 3rd from end:")
+    print_list(head3)
