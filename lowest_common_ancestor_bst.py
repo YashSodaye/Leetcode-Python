@@ -23,7 +23,6 @@ Example 3:
 Input: root = [2,1], p = 2, q = 1
 Output: 2
 '''
-
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
