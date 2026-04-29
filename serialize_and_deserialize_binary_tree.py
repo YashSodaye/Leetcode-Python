@@ -112,5 +112,3 @@ if __name__ == "__main__":
     deserialized = codec.deserialize(serialized)
     print("Deserialized tree (level-order):")
     print_tree(deserialized)
-
-    print("here we go again")
