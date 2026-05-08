@@ -116,3 +116,5 @@ if __name__ == "__main__":
     print("running ok")
 
     print("running good")
+
+    print("Running Crazy")
