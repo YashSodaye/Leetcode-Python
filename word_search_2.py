@@ -141,3 +141,16 @@ if __name__ == "__main__":
     ans2 = obj.findWords(board2, words2)
 
     print("Output:", ans2)
+
+
+     # Example 3
+    board3 = [
+        ["a", "b", "e"],
+        ["c", "d", "f"]
+    ]
+
+    words3 = ["abdf"]
+
+    ans3 = obj.findWords(board3, words3)
+
+    print("Output:", ans3)
