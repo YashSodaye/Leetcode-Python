@@ -142,4 +142,4 @@ print_graph(cloned_graph)
 
 print("Well Done")
 
-print("Working well")
+print("Working great")
