@@ -142,4 +142,4 @@ print_graph(cloned_graph)
 
 print("Well Done")
 
-print("My finger is swollen, can't code new")
+print("My finger is swollen, same condition")
