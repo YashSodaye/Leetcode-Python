@@ -140,4 +140,3 @@ cloned_graph = solution.cloneGraph(node1)
 print("\nCloned Graph:")
 print_graph(cloned_graph)
 
-print("GGs")
