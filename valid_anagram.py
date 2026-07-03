@@ -46,3 +46,4 @@ def valid_anagram(s,t):
     
 print(valid_anagram("anagram", "nagaram"))
 print(valid_anagram("rat", "car"))
+print(valid_anagram("nitin","nitin"))
