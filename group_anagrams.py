@@ -67,3 +67,5 @@ print(groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
 print(groupAnagrams([""]))
 
 print(groupAnagrams(["a"]))
+
+print(groupAnagrams(["nitin", "nitin","yash"]))
