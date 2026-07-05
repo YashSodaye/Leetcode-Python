@@ -60,3 +60,5 @@ print(topKFrequent([1,1,1,2,2,3], 2))
 print(topKFrequent([1,2,1,2,1,2,3,1,3,2],2))
 
 print(topKFrequent([1], 1))
+
+print(topKFrequent([1,2,3,4,1,2,3,4,1,1,1,2,2],2))
