@@ -32,4 +32,4 @@ print(is_subsequence("abc","ahbgdc"))
 
 print(is_subsequence("axc","ahbgdc"))
 
-print("Hello World")
+print(is_subsequence("yash","yashkumar"))
