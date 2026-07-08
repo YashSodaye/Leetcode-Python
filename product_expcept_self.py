@@ -42,4 +42,6 @@ def productExceptSelf(nums):
 print(productExceptSelf([1,2,3,4]))
 
 print(productExceptSelf([-1,1,0,-3,3]))
+
+print(productExceptSelf([4,3,2,1]))
     
