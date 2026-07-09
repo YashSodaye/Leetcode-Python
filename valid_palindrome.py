@@ -52,3 +52,5 @@ print(isPalindrome("A man, a plan, a canal: Panama"))
 print(isPalindrome("race a car"))
 
 print(isPalindrome(" "))
+
+print(isPalindrome("brb"))
