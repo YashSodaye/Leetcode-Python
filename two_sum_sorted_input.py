@@ -47,3 +47,5 @@ print(twoSum([-1,0], -1))
 print(twoSum([0], -1))
 
 print(twoSum([-1,0,1], 1))
+
+print(twoSum([1,4,5,6,7,8,9], 13))
