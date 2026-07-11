@@ -66,3 +66,5 @@ print(threeSum([0,0,0]))
 print(threeSum([0,1]))
 
 print(threeSum([]))
+
+print(threeSum([1,2,3,-3,-2,-1]))
