@@ -49,3 +49,5 @@ def findMaxAverage(nums, k):
 print(findMaxAverage([1,12,-5,-6,50,3], 4))
 
 print(findMaxAverage([5], 1))
+
+print(findMaxAverage([1,2,3,4,5,6,7], 3))
