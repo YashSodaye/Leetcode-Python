@@ -42,3 +42,5 @@ print(lengthOflongestSubstring("abcabcbb"))
 print(lengthOflongestSubstring("bbbbb"))
 
 print(lengthOflongestSubstring("pwwkew"))
+
+print(lengthOflongestSubstring("abcdabaabab"))
