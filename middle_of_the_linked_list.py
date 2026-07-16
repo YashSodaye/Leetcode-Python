@@ -56,7 +56,7 @@ def middleNode(head):
 
 head_1 = create_linked_list([1,2,3,4,5])
 
-head_2 = create_linked_list([1,2,3,4,5,6])
+head_2 = create_linked_list([1,2,3,4,5,6,7,8])
 
 head_3 = (create_linked_list([1,2,3]))
 
