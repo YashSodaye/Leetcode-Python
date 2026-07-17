@@ -83,10 +83,10 @@ head2= create_cycle(head2, -1)
 
 print(hasCycle(head2))
 
-head3 = create_linked_list([1,2,3,4,5,6])
+head3 = create_linked_list([1,2,3,4,5,6,7])
 head3= create_cycle(head3, 1)
 
 print(hasCycle(head3))
 
-print(hasCycle("Head 3:", head3))
+
 
