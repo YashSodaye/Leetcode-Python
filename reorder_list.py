@@ -99,7 +99,7 @@ def print_list(head):
 
 
 # Test
-head = create_list([1, 2, 3, 4, 5])
+head = create_list([1, 2, 3, 4, 5, 6])
 
 print("Before:")
 print_list(head)
