@@ -95,7 +95,7 @@ if __name__ == "__main__":
     print_list(head2)
 
     # Example 3
-    head3 = create_linked_list([1, 2, 3, 4, 5])
+    head3 = create_linked_list([1, 2, 3, 4, 5, 6, 7])
     print("Before:")
     print_list(head3)
 
