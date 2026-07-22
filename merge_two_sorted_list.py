@@ -84,8 +84,8 @@ if __name__ == "__main__":
     sol = Solution()
 
     # Example 1
-    list1 = build_linked_list([1, 2, 4])
-    list2 = build_linked_list([1, 3, 4])
+    list1 = build_linked_list([1, 2, 4, 5])
+    list2 = build_linked_list([1, 3, 4, 6])
     merged = sol.mergeTwoLists(list1, list2)
     print("Output 1:", linked_list_to_list(merged))  # [1,1,2,3,4,4]
 
