@@ -97,7 +97,7 @@ def linked_list_to_list(head):
 
 # ----------- TESTING -----------
 if __name__ == "__main__":
-    lists = [[1, 4, 5], [1, 3, 4], [2, 6]]
+    lists = [[1, 4, 5], [1, 3, 4], [2, 6, 8]]
 
     linked_lists = [build_linked_list(l) for l in lists]
 
