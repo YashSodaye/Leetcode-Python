@@ -39,4 +39,4 @@ def binarySearch(nums, target):
 
 print(binarySearch([-1,0,3,5,9,12], 9))
 
-print(binarySearch([-1,0,3,5,9,12], 2))
+print(binarySearch([-1,0,3,5,9,12,4], 2))
