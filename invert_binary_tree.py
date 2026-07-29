@@ -93,8 +93,8 @@ def tree_to_list(root):
 root = build_tree([4,2,7,1,3,6,9])
 print(tree_to_list(invertTree(root)))  # ✅ [4,7,2,9,6,3,1]
 
-root2 = build_tree([2,1,3])
-print(tree_to_list(invertTree(root2)))  # ✅ [2,3,1]
+root2 = build_tree([2,3,1])
+print(tree_to_list(invertTree(root2)))  # ✅ [2,1,3]
 
 root3 = build_tree([])
 print(tree_to_list(invertTree(root3)))  # ✅ []
