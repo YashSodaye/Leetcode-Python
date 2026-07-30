@@ -95,3 +95,8 @@ if __name__ == "__main__":
     p4 = build_tree([1, 2, 1])
     q4 = build_tree([1, 2, 1])
     print("Example 4:", sol.isSameTree(p4, q4))  # True
+
+    # Example 4
+    p5 = build_tree([1, 3, 1])
+    q5 = build_tree([1, 2, 1])
+    print("Example 5:", sol.isSameTree(p5, q5))  # False
