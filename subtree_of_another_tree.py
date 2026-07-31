@@ -88,4 +88,4 @@ if __name__ == "__main__":
     # Example 2
     root2 = build_tree([3,4,5,1,2,None,None,None,None,0])
     subRoot2 = build_tree([4,1,2])
-    print("Example 2 Output:", sol.isSubtree(root2, subRoot2))  # False
+    print("Example 2 Output:", sol.isSubtree(root2, subRoot2))  # False A
