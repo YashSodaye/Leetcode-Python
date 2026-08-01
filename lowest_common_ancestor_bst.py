@@ -100,4 +100,4 @@ if __name__ == "__main__":
     p = root2
     q = root2.left
     lca = sol.lowestCommonAncestor(root2, p, q)
-    print("Example 3 LCA:", lca.val)  # Expected: 2
+    print("Example 3 LCA:", lca.val)  # Expected: 2 #Excellent
