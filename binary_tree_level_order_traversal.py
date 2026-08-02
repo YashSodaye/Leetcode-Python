@@ -95,3 +95,5 @@ if __name__ == "__main__":
     # Example 3
     root3 = build_tree([])
     print(sol.levelOrder(root3))  # Expected: []
+
+    # Example 4
