@@ -92,4 +92,6 @@ if __name__ == "__main__":
 
     # Additional test
     root3 = build_tree([10, 5, 15, None, None, 6, 20])
-    print("Example 3:", sol.isValidBST(root3))  # Expected: False
+    print("Example 3:", sol.isValidBST(root3))  # Expected: False Positive
+
+    # Extras
