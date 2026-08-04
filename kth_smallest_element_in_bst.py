@@ -73,4 +73,6 @@ print("Output 1:", Solution().kthSmallest(root1, k1))  # Expected: 1
 # Example 2
 root2 = build_tree([5, 3, 6, 2, 4, None, None, 1])
 k2 = 3
-print("Output 2:", Solution().kthSmallest(root2, k2))  # Expected: 3
+print("Output 2:", Solution().kthSmallest(root2, k2))  # Expected: 3 #Excellent
+
+# Great
