@@ -87,3 +87,5 @@ if __name__ == "__main__":
     print("Output 2:", sol.maxPathSum(root2))  # Expected: 42
 
     print("test 3")
+
+    print("Last scam")
