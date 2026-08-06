@@ -57,3 +57,5 @@ print(combination_sum([2,3,6,7],7))
 print(combination_sum(candidates = [2,3,5], target = 8))
 
 print(combination_sum(candidates = [2], target = 1))
+
+print(combination_sum(candidates = [1,2,3,2], target = 4))
