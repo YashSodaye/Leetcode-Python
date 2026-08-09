@@ -100,3 +100,5 @@ if __name__ == "__main__":
     trie.insert("app")
 
     print("search('app'):", trie.search("app"))         # True
+
+    #print(Excellent)
