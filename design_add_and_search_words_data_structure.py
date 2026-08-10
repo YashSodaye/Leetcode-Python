@@ -95,3 +95,5 @@ if __name__ == "__main__":
     print(wordDictionary.search("b.."))   # True
 
     # print("ggs")
+
+    #print("crazy")
