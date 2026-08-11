@@ -168,3 +168,5 @@ if __name__ == "__main__":
     ans4 = obj.findWords(board4, words4)
 
     print("Output:", ans4)
+
+    #print("GGs")
