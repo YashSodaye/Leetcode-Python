@@ -86,3 +86,5 @@ if __name__ == "__main__":
     print("Added 3")
 
     print("Median:", medianFinder.findMedian())  # 2.0
+
+    #print("median")
