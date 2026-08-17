@@ -147,4 +147,8 @@ print_graph(cloned_graph)
 #print("good")
 
 
-#print("End is the new beggining")
+#print("End is the new beginning")
+
+#print("today is good")
+
+#print("Tomorrow will be greatest")
