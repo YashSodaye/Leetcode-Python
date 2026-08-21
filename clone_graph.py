@@ -141,16 +141,4 @@ print("\nCloned Graph:")
 print_graph(cloned_graph)
 
 
-#print("End is the new beginning")
-
-#print("today is good")
-
-#print("Tomorrow will be excellent")
-
-
-
-#print("yash sodaye")
-
-#print("FTW")
-
-#print("yash")
+#print("Time is like speed of light")
