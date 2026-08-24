@@ -144,3 +144,7 @@ print_graph(cloned_graph)
 print("Time is like speed of light")
 
 print("3 x 10 ~ 8")
+
+print("One day is over, I am better than yesterday")
+
+print("Today I learnt the topic about LangChain Runnables")
