@@ -152,5 +152,3 @@ print("Today I learnt the topic about LangChain Runnables")
 print("I am going to get 1 rating in interview and 1 is proficient")
 
 print("Thank you god helping me to ace the interview")
-
-print("ggs")
