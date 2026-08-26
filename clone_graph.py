@@ -155,3 +155,7 @@ print("Thank you god helping me to ace the interview")
 
 
 #print("ok")
+
+print("I am so lucky")
+
+print("I am so grateful")
