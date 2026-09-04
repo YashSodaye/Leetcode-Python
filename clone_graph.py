@@ -140,8 +140,5 @@ cloned_graph = solution.cloneGraph(node1)
 print("\nCloned Graph:")
 print_graph(cloned_graph)
 
-#print("I am going to excel in the interview call")
 
-#print("Informatica you are done bro")
-
-#print("Tomorrow is the moment of truth")
+#print("Jai shree krishna")
