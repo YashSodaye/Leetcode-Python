@@ -141,3 +141,5 @@ print("\nCloned Graph:")
 print_graph(cloned_graph)
 
 #print("Sitaram")
+
+#print("Time is like speed")
