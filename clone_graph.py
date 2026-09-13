@@ -140,14 +140,3 @@ cloned_graph = solution.cloneGraph(node1)
 print("\nCloned Graph:")
 print_graph(cloned_graph)
 
-#print("Sitaram")
-
-#print("Time is like speed")
-
-#print("Jay shree ram")
-
-#print("I am going to change my life")
-
-#print("locked in")
-
-#print("you need to lock in")
